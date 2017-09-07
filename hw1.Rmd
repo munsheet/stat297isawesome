@@ -1,15 +1,17 @@
 ---
 title: "hw1"
-author: "Justin Lee"
+author: "Justin Lee and Joanne"
 output: html_document
 ---
 
-I'm doing homework. 
+I'm doing homework... or am I really? 
 
 ```{r}
-1+1
+# Check and see if this is correct! 
+1+1 == 2
 ```
 
 Nice! 
 
 QED 
+
