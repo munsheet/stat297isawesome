@@ -1,0 +1,15 @@
+---
+title: "hw1"
+author: "Justin Lee"
+output: html_document
+---
+
+I'm doing homework. 
+
+```{r}
+1+1
+```
+
+Nice! 
+
+QED 
